@@ -3,7 +3,7 @@
        align="right" width="128" height="128" />
 </h2>
 
-![PostgreSQL](https://img.shields.io/badge/postgresql-yellow.svg)
+![PostgreSQL](https://img.shields.io/badge/postgresql-10-yellow.svg)
 ![Swift3](https://img.shields.io/badge/swift-3-blue.svg)
 ![Swift4](https://img.shields.io/badge/swift-4-blue.svg)
 ![macOS](https://img.shields.io/badge/os-macOS-green.svg?style=flat)
