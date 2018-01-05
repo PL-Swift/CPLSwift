@@ -1,0 +1,9 @@
+//
+// Copyright (C) 2018 ZeeZide GmbH, All Rights Reserved
+// Created by Helge Hess on 2018-01-05
+//
+
+module CPLSwift [system] {
+  header "CPLSwiftShim.h"
+  export *
+}
